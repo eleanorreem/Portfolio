@@ -7,7 +7,7 @@ class Entry extends React.Component {
       <div className='entry-container'>
         <div className='forest-background'> Entry page</div>
         <div className='enter-container'><p>Enter</p></div>
-        <img className='walking-man' src='http://ppt.wz51z.com/PMP2/People.To.School/animations/people_s/stick_people/stickman_walking_dog_hb.gif'/>
+        <img className='walking-man' src='https://s-media-cache-ak0.pinimg.com/originals/02/57/69/0257695066c4b8a38543aabfb0679a4e.gif'/>
       </div>
     )
   }
