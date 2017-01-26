@@ -1,10 +1,7 @@
 .forest-background {
-  background-image: url(https://cloud.githubusercontent.com/assets/16049515/22298863/ee66683a-e319-11e6-821e-215a2a0d2aa8.png);
+  background-image: url(https://cloud.githubusercontent.com/assets/16049515/22349107/2f7600a0-e406-11e6-9dea-f4a4fba0d9fb.png);
   height: 100%;
   position: relative;
-  box-shadow: 0 3px 21px rgba(220, 208, 192, 0.8), inset 200px 100px 100px rgba(220, 208, 192, 0.8);
-  border: solid #ccc 1px;
-  border-radius: 10px;
   width: 100%;
   margin-left: -20px;
   opacity: 1;
@@ -23,10 +20,16 @@
       -ms-animation: fadein 7s; /* Internet Explorer */
           animation: fadein 7s;
   position: fixed;
+  top: 10em;
+  left: 40em;
+  color: white;
+  font-size: 3em;
 }
 .entry-container {
   height: 100%;
 }
 .walking-man {
   position: fixed;
+  top: 25em;
+  left: 40em;
 }
