@@ -1,0 +1,32 @@
+.forest-background {
+  background-image: url(https://cloud.githubusercontent.com/assets/16049515/22298863/ee66683a-e319-11e6-821e-215a2a0d2aa8.png);
+  height: 100%;
+  position: relative;
+  box-shadow: 0 3px 21px rgba(220, 208, 192, 0.8), inset 200px 100px 100px rgba(220, 208, 192, 0.8);
+  border: solid #ccc 1px;
+  border-radius: 10px;
+  width: 100%;
+  margin-left: -20px;
+  opacity: 1;
+  margin-top: -20px;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: center;
+  -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+     -moz-animation: fadein 4s; /* Firefox < 16 */
+      -ms-animation: fadein 4s; /* Internet Explorer */
+          animation: fadein 4s;
+}
+.enter-container {
+  -webkit-animation: fadein 7s; /* Safari, Chrome and Opera > 12.1 */
+     -moz-animation: fadein 7s; /* Firefox < 16 */
+      -ms-animation: fadein 7s; /* Internet Explorer */
+          animation: fadein 7s;
+  position: fixed;
+}
+.entry-container {
+  height: 100%;
+}
+.walking-man {
+  position: fixed;
+}
